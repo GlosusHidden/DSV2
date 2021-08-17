@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,KACI,4BAA6B,CAC7B,WACJ,CAEA,MACI,aAAc,CACd,eAAgB,CAChB,eACJ","file":"main.72d207b0.chunk.css","sourcesContent":["body {\r\n    background: #eff2f7!important;\r\n    height: 100%;\r\n}\r\n\r\n#root {\r\n    margin: 0 auto;\r\n    max-width: 750px;\r\n    min-width: 360px;\r\n}"]}
