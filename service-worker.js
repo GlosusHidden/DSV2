@@ -23,7 +23,7 @@ self.addEventListener('install', function(event) {
       caches.open(CACHE_NAME)
         .then(function(cache) {
             console.log(cache);
-            fetch("asset-manifest.json")
+            fetch("https://glosushidden.github.io/DSV2/asset-manifest.json")
             .then(response => {
               response.json()
             })
