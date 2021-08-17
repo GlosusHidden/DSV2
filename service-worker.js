@@ -28,8 +28,7 @@ self.addEventListener('install', function(event) {
               response.json()
             })
             .then(assets => {
-                console.log(assets);
-                cache.addAll(assets)
+                cache.addAll([]);
               console.log('cached');
             })
         })
